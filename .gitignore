@@ -1,0 +1,8 @@
+# binary file
+meowify
+
+# Output txt
+output*.txt
+
+# OS generated files
+.DS_Store
