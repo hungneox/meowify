@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/hungnq1989/meowify/cats"
+	"github.com/hungneox/meowify/cats"
 )
 
 func handle(fileName string, translate bool, cat cats.CatInterface) {
